@@ -6,7 +6,7 @@
 #----------------------------------------------
 
 #Add path to OU which you want to search for computer names
-$searchOUString = "OU=Some OU,DC=SomeDomain,DC=local"
+$searchOUString = "OU=SomeOU,DC=SomeDomain,DC=local"
 
 #Do not alter code below
 
