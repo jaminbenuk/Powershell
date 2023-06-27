@@ -1,6 +1,6 @@
 
 #Replace with the IP addresses of your switches for example @("192.168.1.1", "192.168.1.2", "192.168.1.3")
-$SwitchIPs = @("192.168.1.117", "192.168.1.2", "192.168.1.3")		
+$SwitchIPs = @("192.168.1.2", "192.168.1.3")		
 #Replace with the IP address of your router
 $RouterIP = "192.168.1.1"
 #Path to the log file
